@@ -10,7 +10,7 @@ addEventListener("DOMContentLoaded", () => {
   
      const picturePuzzle2 = new PicturePuzzle(
        document.querySelectorAll('#puzzle-wrapper > div')[1],
-       'full2.png',
+       'full4.jpg',
        600,
        4
      );
